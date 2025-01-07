@@ -1,5 +1,3 @@
-Here’s a README.md for your Tic Tac Toe game project, written to make it look professional and showcase your project on GitHub. I’ve included a project overview, features, setup instructions, and a license section.
-
 Tic Tac Toe Game (Tkinter GUI)
 
 A simple Tic Tac Toe game built with Python using Tkinter for the GUI. This project demonstrates basic GUI programming, event handling, and game logic implementation.
@@ -43,7 +41,7 @@ cd tic-tac-toe-tkinter
 
 python main.py
 
-🎮 How to Play
+How to Play
 	1.	The game starts with Player X.
 	2.	Players take turns clicking on the buttons to place their marks.
 	3.	The game ends when:
@@ -68,20 +66,12 @@ Improvements to Consider
 
 Screenshots
 
-Feel free to replace this section with your own game screenshots!
-
-License
-
-This project is licensed under the MIT License. You are free to modify and distribute the code.
-
-Contributing
+<img width="321" alt="image" src="https://github.com/user-attachments/assets/4cdd6c07-098f-4faf-84a2-ffc6bacc9584" />
 
 Contributions are welcome!
 If you have ideas to improve the project, feel free to fork the repo and submit a pull request.
 
-Contact
-
-If you have any questions or feedback, feel free to reach out!
+Contact : fay.abdillah@gmail.com
 
 Show Your Support
 
