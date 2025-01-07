@@ -68,6 +68,10 @@ Screenshots
 
 <img width="321" alt="image" src="https://github.com/user-attachments/assets/4cdd6c07-098f-4faf-84a2-ffc6bacc9584" />
 
+License
+
+This project is licensed under the MIT License. You are free to modify and distribute the code.
+
 Contributions are welcome!
 If you have ideas to improve the project, feel free to fork the repo and submit a pull request.
 
