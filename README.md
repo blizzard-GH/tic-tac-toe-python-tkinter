@@ -45,8 +45,8 @@ How to Play
 	1.	The game starts with Player X.
 	2.	Players take turns clicking on the buttons to place their marks.
 	3.	The game ends when:
-	•	A player gets three marks in a row (horizontally, vertically, or diagonally).
-	•	The board is full (it’s a tie).
+		•	A player gets three marks in a row (horizontally, vertically, or diagonally).
+		•	The board is full (it’s a tie).
 	4.	A message box shows the result, and the game board resets automatically.
 
 Code Explanation
